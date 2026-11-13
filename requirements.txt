@@ -1,0 +1,14 @@
+# Starter notebook
+numpy
+pandas
+matplotlib
+pillow
+opencv-python
+scikit-learn
+jupyter
+ipykernel
+
+# Needed later for the three pipelines
+scikit-image
+torch
+torchvision

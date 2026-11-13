@@ -1,0 +1,10 @@
+# Python environment
+.venv/
+
+# Dataset (download from: https://data.mendeley.com/datasets/697w4jkr2x/2)
+Dataset/
+
+# Mac and Jupyter clutter
+.DS_Store
+.ipynb_checkpoints/
+__pycache__/
