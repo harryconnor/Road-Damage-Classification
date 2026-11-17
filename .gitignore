@@ -8,3 +8,7 @@ Dataset/
 .DS_Store
 .ipynb_checkpoints/
 __pycache__/
+
+# Outputs from the edge pipeline
+basics_output/
+results/
